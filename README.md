@@ -3,4 +3,4 @@ Repository for the code for DeepATAC project presented at WCB workshop in ICML20
 The associated extended abstract can be found at http://www.biorxiv.org/content/early/2017/08/06/172767.  
 
 Currently this is a subset of ipython notebooks I used run experiments.  
-I plan to publish a more user-friendly code soon.  
+I plan to publish more user-friendly code soon.  
